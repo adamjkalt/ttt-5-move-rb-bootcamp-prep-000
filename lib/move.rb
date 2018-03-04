@@ -14,6 +14,5 @@ def move(array, index, value)
   array[index] = value
 end
 
-return move(board, 0, "X")
 
 # code your input_to_index and move method here!
