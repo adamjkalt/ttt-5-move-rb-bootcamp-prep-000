@@ -7,6 +7,7 @@ def display_board(board)
 end
 
 def input_to_index
+  puts board[] - 1.to_i
 end
 
 def move
