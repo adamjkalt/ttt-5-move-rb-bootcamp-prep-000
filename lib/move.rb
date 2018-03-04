@@ -8,8 +8,8 @@ end
 
 def input_to_index(user_input)
   puts user_input.to_i
+  print input_to_index
 end
-print input_to_index(user_input)
 
 def update_array_at_with(array, index, value)
   array[index] = value
