@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def input_to_index
-  puts board[' '].to_i
+  puts board[].to_i
 end
 
 def update_array_at_with(array, index, value)
