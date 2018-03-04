@@ -8,7 +8,7 @@ end
 
 def input_to_index(user_input)
   puts user_input.to_i
-  print input_to_index
+  print
 end
 
 def update_array_at_with(array, index, value)
